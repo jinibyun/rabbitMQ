@@ -6,3 +6,4 @@ ref: https://www.rabbitmq.com/tutorials
 3. PublishSubscribe
 4. Routing
 5. Topics
+6. "RPC" is skipped 
